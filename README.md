@@ -15,7 +15,7 @@ This project analyzes global population and its relationship with economic perfo
 The dashboard is designed for both desktop and mobile to ensure accessibility and usability across devices.
 
 ### Desktop View
-![Desktop Dashboard](images/desktop.png)
+![Desktop Dashboard]([images/desktop.png](https://github.com/salmahamed1572001-coder/Economic-Performance-Dashboard/blob/main/desktop.png.jpeg?raw=true))
 
 ### Mobile View
 ![Mobile Dashboard](images/mobile.png)
